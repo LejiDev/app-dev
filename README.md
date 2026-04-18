@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# 🎬 Despicable Me
+#  Despicable Me
 
 ## Overview
 *Despicable Me* is a **funny** and *heartwarming* movie.
